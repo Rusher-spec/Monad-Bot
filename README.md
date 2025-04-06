@@ -40,3 +40,21 @@ Monad-BOT is a blockchain automation tool designed to interact with various cryp
 This project is licensed under the ISC License.
 
 ### 🔑 Tags
+- monad 
+- monad-types 
+- monad-testnet 
+- monad-bot 
+- monad-automation 
+- monad-tool 
+- monad-network 
+- monad-token-earnings 
+- monad-airdrop-access 
+- monad-decentralized 
+- monad-crypto-event-launch 
+- monad-crypto-airdrop 
+- monad-airdrop 
+- monad-chain 
+- monad-soft 
+- monad-score 
+- monad-script 
+- monad-autom
